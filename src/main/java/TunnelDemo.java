@@ -15,8 +15,8 @@ public class TunnelDemo {
     private static String project = "ACP_mc";
     private static String table = "person";
     private static String endpoint = "http://service.cn-shenzhen.maxcompute.aliyun.com/api";
-    private static String accessId = "LTAI4FcyA6GuF5ChpwYzainM";
-    private static String accessKey = "TOhqFRPCPqq1H9PdXvWbibTXduxY6f";
+    private static String accessId = "";
+    private static String accessKey = "";
 
     public static void main(String[] args) throws TunnelException, IOException {
 
